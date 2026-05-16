@@ -1,0 +1,19 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "notifyUserId": "YOUR_DISCORD_USER_ID",
+  "checkIntervalMinutes": 5,
+  "youtubers": [
+    {
+      "name": "Fireship",
+      "id": "UCsBjURrPoezykLs9EqgamOA"
+    },
+    {
+      "name": "Linus Tech Tips",
+      "id": "UCXuqSBlHAE6Xw-yeJA0Tunw"
+    },
+    {
+      "name": "MrBeast",
+      "id": "UCX6OQ3DkcsbYNE6H8uQQuVA"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "youtube-discord-notifier",
+  "version": "1.0.0",
+  "description": "Pings you on Discord when a YouTuber uploads",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "rss-parser": "^3.13.0"
+  }
+}
